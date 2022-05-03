@@ -1,0 +1,45 @@
+body {
+    background-color: goldenrod;
+}
+
+img {
+    border-radius: 50%;
+    width: 50%;
+    height: 25%;
+    border-width: 5px;
+    border-style: double;
+    border-color: gold;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#header {
+    background-color: rgb(199, 199, 138);
+    text-align: center;
+    border-width: 10px;
+    border-style: double;
+}
+
+#list {
+    border-width: 5px;
+    border-style: double;
+    border-color: coral;
+    padding: 15px;
+    margin-left: 35%;
+    text-align: center;
+}
+
+#navlinks {
+    position: fixed;
+}
+
+#footer {
+    position: sticky;
+    bottom: 0;
+    background-color: chocolate;
+    border-width: 5px;
+    border-style: double;
+    border-color: coral;
+    text-align: center;
+}
